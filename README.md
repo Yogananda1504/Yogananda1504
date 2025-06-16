@@ -10,13 +10,7 @@
   <img src="https://drive.google.com/uc?export=view&id=1DWWDTN_3gRwE0HAS9LRAGOU9bkzS9rPk" width="200" alt="Yogananda Profile Image" style="border-radius: 50%; border: 4px solid #ff79c6;"/>
 </p>
 
----
 
-<p align="center">
-  <strong><em> "Life was and is  never same after hearing, Chill h !" </em></strong>
-</p>
-
----
 
 ## 🚀 About Me
 
